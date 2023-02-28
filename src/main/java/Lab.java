@@ -18,6 +18,7 @@ public class Lab {
         int a=10, b=0;
         int c;
 
+        
         c=a/b;
 
     }
